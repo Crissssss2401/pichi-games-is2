@@ -1,6 +1,6 @@
 # Concept Document — CALLA O CORRE
 
-**Equipo:** Pichi Games  
+**Equipo:** Iron Pixels  
 **Integrantes:** Cristian Sahon, Marcos Sulugüi, Nahum Albeño, Gilmar Maldonado
 **Fecha:** [14/07/2026]
 
