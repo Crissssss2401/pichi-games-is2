@@ -1,6 +1,6 @@
 # Diagnostico IS1 — Cristian David Sahon Tonon
 
-**Fecha:** 14 de julio de 2026 | **Equipo:** Pichi Games
+**Fecha:** 14 de julio de 2026 | **Equipo:** Iron Pixels
 
 ---
 
