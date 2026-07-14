@@ -1,5 +1,3 @@
-# iron-pixels-is2
-Somos un Grupo de Estudiantes de la carrera de Licenciatura en Tecnología de Sistemas Informáticos, en UVG Campus Altiplano, tenemos una visión clara, dejar huella en Guatemala con ideas con propósito
 # Iron Pixels — Ingeniería de Software II · TS359
 
 ## Integrantes
@@ -11,44 +9,87 @@ Somos un Grupo de Estudiantes de la carrera de Licenciatura en Tecnología de Si
 
 ---
 
-## Proyecto
+# Proyecto
 
-### CALLA O CORRE
+## Dead Harvest *(Nombre provisional)*
 
-**Descripción**
+### Descripción
 
-CALLA O CORRE es un videojuego de horror y supervivencia en el que el jugador debe escapar de un edificio corporativo tras un experimento fallido. Durante el recorrido deberá administrar la batería de su linterna, encontrar fragmentos de un código de activación y evitar ser detectado por una criatura que reacciona al sonido y la luz.
+**Dead Harvest** es un videojuego de acción, supervivencia y roguelite en 2D con vista **Top-Down**. El jugador deberá sobrevivir a oleadas de zombis utilizando armas cuerpo a cuerpo, administrar sus recursos y seleccionar mejoras temporales para enfrentarse a enemigos cada vez más desafiantes hasta derrotar al jefe final y escapar de la zona de cuarentena.
 
-**Docente:** Omar Arreaga
+---
+
+## Objetivo del proyecto
+
+Desarrollar un videojuego funcional en un período de 20 semanas como parte del curso **Ingeniería de Software II (TS359)**, aplicando metodologías de desarrollo de software, documentación, control de versiones y herramientas colaborativas.
+
+---
+
+## Docente
+
+**Omar Arreaga**
 
 **Ciclo:** 2-2026
 
-**UVG Campus Altiplano**
+**Universidad del Valle de Guatemala — Campus Altiplano**
 
 ---
 
 # Herramientas del equipo
 
-- Repositorio: GitHub
-- Gestión: Trello
-- Diseño UI: Figma
-- IA: ChatGPT y GitHub Copilot
+| Herramienta | Uso |
+|-------------|-----|
+| GitHub | Control de versiones y repositorio del proyecto |
+| Trello | Gestión de tareas y seguimiento del proyecto |
+| Figma | Diseño de interfaces y prototipos |
+| ChatGPT | Apoyo en documentación, diseño y desarrollo |
+| GitHub Copilot | Asistencia en programación |
+| Unity 2D | Motor de desarrollo del videojuego |
 
 ---
 
 # Estructura del repositorio
 
-**semana-01/**
-Contiene todos los entregables de la primera semana.
+```text
+.
+├── README.md
+├── semana-01/
+│   ├── concept-document.md
+│   ├── acuerdo-de-equipo.md
+│   ├── diagnostico-cristian.md
+│   ├── diagnostico-marcos.md
+│   ├── diagnostico-nahum.md
+│   └── diagnostico-gilmar.md
+├── documentos/
+├── diagramas/
+├── prototipos/
+└── sprints/
+```
 
-**documentos/**
-Documentación del proyecto, requisitos, arquitectura y plan de pruebas.
+### Descripción de carpetas
 
-**diagramas/**
-Diagramas UML del sistema.
+- **semana-01/** → Entregables correspondientes a la primera semana del proyecto.
+- **documentos/** → Documentación técnica del proyecto (ERS, arquitectura, casos de uso y plan de pruebas).
+- **diagramas/** → Diagramas UML y demás modelos del sistema.
+- **prototipos/** → Diseños, wireframes y recursos gráficos creados en Figma.
+- **sprints/** → Resúmenes, planificación y avances de cada sprint.
 
-**prototipos/**
-Diseños de interfaces y wireframes realizados en Figma.
+---
 
-**sprints/**
-Resumen del trabajo realizado en cada sprint del proyecto.
+# Estado del proyecto
+
+**Fase actual:** Semana 1 — Conceptualización del videojuego.
+
+### Entregables completados
+
+- ✅ Formación del equipo.
+- ✅ Acuerdo de trabajo.
+- ✅ Concept Document.
+- ⏳ Pitch del videojuego.
+- ⏳ Configuración del repositorio.
+
+---
+
+# Licencia
+
+Este proyecto ha sido desarrollado con fines exclusivamente académicos para el curso **Ingeniería de Software II (TS359)** de la Universidad del Valle de Guatemala.
