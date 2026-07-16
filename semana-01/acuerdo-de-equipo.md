@@ -10,6 +10,8 @@ Iron Pixels
 - Marcos
 - Nahum
 - Gilmar
+- Wendy
+- Efer
 
 ## Roles
 
