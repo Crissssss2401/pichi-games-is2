@@ -18,8 +18,9 @@ Iron Pixels
 - Cristian Sahon — Líder del equipo
 - Marcos Sulugüi — Responsable de documentación
 - Nahum Albeño — Responsable de herramientas
-- Gilmar Maldonado— Responsable de comunicación
-
+- Gilmar Maldonado — Responsable de comunicación
+- Wendy Chumil — Responsable de diseño y experiencia de usuario (UI/UX)
+- Efer Cotúc — Responsable de control de calidad y pruebas (QA)
 ---
 
 ## Acuerdos
